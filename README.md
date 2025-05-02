@@ -1,3 +1,3 @@
-[Main](https://quantumbrackets.com)
+[Home](https://quantumbrackets.com)
 
 [Story.ai](/story.ai)
